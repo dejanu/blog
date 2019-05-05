@@ -1,0 +1,2 @@
+# blog
+Serve static content
