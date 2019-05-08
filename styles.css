@@ -2,7 +2,9 @@
  * Demo Styles
  */
 
- 
+ .big_banner{
+   background-image: url('/media/b2ece.jpg');
+ }
   
   /**
    * Footer Styles
